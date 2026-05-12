@@ -1,0 +1,72 @@
+[
+    {
+        "Employee ID":"EMP101",
+        "Name":"Aarav Sharma",
+        "Age":25,
+        "Department":"HR",
+        "Salary":35000
+    },
+    {
+        "Employee ID":"EMP102",
+        "Name":"Priya Verma",
+        "Age":29,
+        "Department":"Finance",
+        "Salary":52000
+    },
+    {
+        "Employee ID":"EMP103",
+        "Name":"Rohan Mehta",
+        "Age":31,
+        "Department":"IT",
+        "Salary":68000
+    },
+    {
+        "Employee ID":"EMP104",
+        "Name":"Sneha Kapoor",
+        "Age":27,
+        "Department":"Marketing",
+        "Salary":47000
+    },
+    {
+        "Employee ID":"EMP105",
+        "Name":"Vikram Singh",
+        "Age":35,
+        "Department":"Operations",
+        "Salary":75000
+    },
+    {
+        "Employee ID":"EMP106",
+        "Name":"Neha Joshi",
+        "Age":24,
+        "Department":"Sales",
+        "Salary":40000
+    },
+    {
+        "Employee ID":"EMP107",
+        "Name":"Aditya Rao",
+        "Age":30,
+        "Department":"IT",
+        "Salary":72000
+    },
+    {
+        "Employee ID":"EMP108",
+        "Name":"Kavya Nair",
+        "Age":28,
+        "Department":"HR",
+        "Salary":39000
+    },
+    {
+        "Employee ID":"EMP109",
+        "Name":"Manish Gupta",
+        "Age":33,
+        "Department":"Finance",
+        "Salary":81000
+    },
+    {
+        "Employee ID":"EMP110",
+        "Name":"Isha Malhotra",
+        "Age":26,
+        "Department":"Customer Care",
+        "Salary":36000
+    }
+]
